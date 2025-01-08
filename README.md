@@ -1,6 +1,6 @@
 # 🌟 TaskBuddy App
 
-<img width="1440" alt="Screenshot 2025-01-08 121750" src="https://github.com/user-attachments/assets/c59b0903-2812-4a1d-bb45-6bee50af9360" />
+<img width="1440" alt="Screenshot 2025-01-08 122734" src="https://github.com/user-attachments/assets/3a808ae0-0bdc-4d34-85b4-5f53ebe03dd4" />
 
 TaskBuddy is a ReactJS-based task management application that helps users efficiently manage their tasks. The app supports adding, updating, and deleting tasks, with all data stored locally in the browser for persistent usage.
 

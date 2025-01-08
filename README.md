@@ -12,6 +12,7 @@ TaskBuddy is a ReactJS-based task management application that helps users effici
 - **Delete Individual Tasks**: Remove specific tasks from the list.
 - **Clear All Tasks**: Remove all tasks at once (button is displayed only if there is at least one task).
 - **Dynamic Buttons**: Each task has a "Complete" and "Delete" button for easy management.
+- **Progress Tracker**: Visual representation of the task completion status.
 
 ## 🔧 How It Works
 
@@ -29,6 +30,12 @@ TaskBuddy is a ReactJS-based task management application that helps users effici
 4. **Clear All Tasks**:
    - Click the "Clear All Tasks" button to remove all tasks.
    - The button is hidden if there are no tasks in the list.
+
+5. **Progress Tracker**:
+   - The app visually tracks task completion.
+   - The progress tracker shows the percentage of completed tasks in the list, giving users a quick overview of how much of their task list has been completed.
+   - This percentage is dynamically updated whenever a task is marked as complete or incomplete.
+   - The tracker is displayed at the top of the task list for easy access.
 
 ## 🛠️ Technologies Used
 
